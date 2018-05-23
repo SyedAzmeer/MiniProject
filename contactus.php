@@ -6,10 +6,10 @@
 <body background="http://media.istockphoto.com/photos/abstract-blue-green-technology-and-science-modern-background-picture-id523760376?k=6&m=523760376&s=170667a&w=0&h=aftceF6b8PRPLj5ATpYHvA7a9g-KgxLBOihz9sT_3PM=">
 
 </center>
-//THIS PAGE WILL DISPLAY HOW TO CONTACT THE ORGANIZATION haigauusahdgwjkoakqsv,dkjwhowwhdhlsbdylnajxvvlkijwxgj
+//THIS PAGE WILL DISPLAY HOW TO CONTACT THE ORGANIZATION
 <title>Contact Us</title>
 <style type="text/css">
-
+//yer ni ha dah comment
 body
 {
   width: 1000px;   
