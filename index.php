@@ -8,7 +8,7 @@
 <body background="http://media.istockphoto.com/photos/abstract-blue-green-technology-and-science-modern-background-picture-id523760376?k=6&m=523760376&s=170667a&w=0&h=aftceF6b8PRPLj5ATpYHvA7a9g-KgxLBOihz9sT_3PM=">
 
 
-  <title>Home</title>
+  <title>MYAPP</title>
 <style type="text/css">
 
 body
